@@ -1,0 +1,22 @@
+﻿<viewdata model="fubu101.Handlers.Movie.Add.AddViewModel" />
+
+<content:main>
+
+  <Form model="fubu101.Handlers.Movie.Add.AddInputModel">
+    <div class="row">
+      <LabelFor property="Title" />
+      <InputFor property="Title" />
+    </div>
+    <div class="row">
+      <LabelFor property="Year" />
+      <InputFor property="Year" />
+    </div>
+    <div class="row row-submit">
+      <button type="submit" id="submit">
+        <span>add</span>
+      </button>
+    </div>
+  </Form>
+  
+
+</content:main>

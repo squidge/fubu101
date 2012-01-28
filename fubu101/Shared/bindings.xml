@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<bindings>
+  <element name="AddMovie">#this.Partial&lt;fubu101.Handlers.Movie.Add.AddRequestModel&gt;();</element>
+  <element name="Form">
+    <start>this.FormFor&lt;@model&gt;()</start>
+    <end>this.EndForm()</end>
+  </element>
+  <element name="LabelFor">this.LabelFor(m =&gt; m.@property)</element>
+  <element name="InputFor">this.InputFor(m =&gt; m.@property)</element>
+</bindings>

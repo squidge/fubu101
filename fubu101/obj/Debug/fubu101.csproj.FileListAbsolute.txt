@@ -1,0 +1,90 @@
+C:\Users\aguilarf\Documents\Visual Studio 2010\Projects\fubu101\fubu101\bin\fubu101.dll
+C:\Users\aguilarf\Documents\Visual Studio 2010\Projects\fubu101\fubu101\bin\fubu101.pdb
+C:\Users\aguilarf\Documents\Visual Studio 2010\Projects\fubu101\fubu101\bin\Bottles.dll
+C:\Users\aguilarf\Documents\Visual Studio 2010\Projects\fubu101\fubu101\bin\FluentValidation.dll
+C:\Users\aguilarf\Documents\Visual Studio 2010\Projects\fubu101\fubu101\bin\FubuCore.dll
+C:\Users\aguilarf\Documents\Visual Studio 2010\Projects\fubu101\fubu101\bin\FubuLocalization.dll
+C:\Users\aguilarf\Documents\Visual Studio 2010\Projects\fubu101\fubu101\bin\FubuMVC.Core.dll
+C:\Users\aguilarf\Documents\Visual Studio 2010\Projects\fubu101\fubu101\bin\FubuMVC.Spark.dll
+C:\Users\aguilarf\Documents\Visual Studio 2010\Projects\fubu101\fubu101\bin\FubuMVC.StructureMap.dll
+C:\Users\aguilarf\Documents\Visual Studio 2010\Projects\fubu101\fubu101\bin\HtmlTags.dll
+C:\Users\aguilarf\Documents\Visual Studio 2010\Projects\fubu101\fubu101\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Users\aguilarf\Documents\Visual Studio 2010\Projects\fubu101\fubu101\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\aguilarf\Documents\Visual Studio 2010\Projects\fubu101\fubu101\bin\Simple.Data.Ado.dll
+C:\Users\aguilarf\Documents\Visual Studio 2010\Projects\fubu101\fubu101\bin\Simple.Data.dll
+C:\Users\aguilarf\Documents\Visual Studio 2010\Projects\fubu101\fubu101\bin\Simple.Data.Sqlite.dll
+C:\Users\aguilarf\Documents\Visual Studio 2010\Projects\fubu101\fubu101\bin\Spark.dll
+C:\Users\aguilarf\Documents\Visual Studio 2010\Projects\fubu101\fubu101\bin\StructureMap.dll
+C:\Users\aguilarf\Documents\Visual Studio 2010\Projects\fubu101\fubu101\bin\System.Data.SQLite.dll
+C:\Users\aguilarf\Documents\Visual Studio 2010\Projects\fubu101\fubu101\bin\System.Data.SQLite.Linq.dll
+C:\Users\aguilarf\Documents\Visual Studio 2010\Projects\fubu101\fubu101\bin\WebActivator.dll
+C:\Users\aguilarf\Documents\Visual Studio 2010\Projects\fubu101\fubu101\bin\Bottles.pdb
+C:\Users\aguilarf\Documents\Visual Studio 2010\Projects\fubu101\fubu101\bin\FluentValidation.pdb
+C:\Users\aguilarf\Documents\Visual Studio 2010\Projects\fubu101\fubu101\bin\FluentValidation.xml
+C:\Users\aguilarf\Documents\Visual Studio 2010\Projects\fubu101\fubu101\bin\FubuCore.pdb
+C:\Users\aguilarf\Documents\Visual Studio 2010\Projects\fubu101\fubu101\bin\FubuLocalization.pdb
+C:\Users\aguilarf\Documents\Visual Studio 2010\Projects\fubu101\fubu101\bin\FubuMVC.Core.pdb
+C:\Users\aguilarf\Documents\Visual Studio 2010\Projects\fubu101\fubu101\bin\FubuMVC.Spark.pdb
+C:\Users\aguilarf\Documents\Visual Studio 2010\Projects\fubu101\fubu101\bin\FubuMVC.StructureMap.pdb
+C:\Users\aguilarf\Documents\Visual Studio 2010\Projects\fubu101\fubu101\bin\HtmlTags.pdb
+C:\Users\aguilarf\Documents\Visual Studio 2010\Projects\fubu101\fubu101\bin\HtmlTags.xml
+C:\Users\aguilarf\Documents\Visual Studio 2010\Projects\fubu101\fubu101\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\aguilarf\Documents\Visual Studio 2010\Projects\fubu101\fubu101\bin\Microsoft.Practices.ServiceLocation.xml
+C:\Users\aguilarf\Documents\Visual Studio 2010\Projects\fubu101\fubu101\bin\StructureMap.pdb
+C:\Users\aguilarf\Documents\Visual Studio 2010\Projects\fubu101\fubu101\bin\StructureMap.xml
+C:\Users\aguilarf\Documents\Visual Studio 2010\Projects\fubu101\fubu101\bin\de\FluentValidation.resources.dll
+C:\Users\aguilarf\Documents\Visual Studio 2010\Projects\fubu101\fubu101\bin\es\FluentValidation.resources.dll
+C:\Users\aguilarf\Documents\Visual Studio 2010\Projects\fubu101\fubu101\bin\fr\FluentValidation.resources.dll
+C:\Users\aguilarf\Documents\Visual Studio 2010\Projects\fubu101\fubu101\bin\it\FluentValidation.resources.dll
+C:\Users\aguilarf\Documents\Visual Studio 2010\Projects\fubu101\fubu101\bin\nl\FluentValidation.resources.dll
+C:\Users\aguilarf\Documents\Visual Studio 2010\Projects\fubu101\fubu101\bin\pl\FluentValidation.resources.dll
+C:\Users\aguilarf\Documents\Visual Studio 2010\Projects\fubu101\fubu101\bin\pt\FluentValidation.resources.dll
+C:\Users\aguilarf\Documents\Visual Studio 2010\Projects\fubu101\fubu101\bin\sv\FluentValidation.resources.dll
+C:\Users\aguilarf\Documents\Visual Studio 2010\Projects\fubu101\fubu101\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\aguilarf\Documents\Visual Studio 2010\Projects\fubu101\fubu101\obj\Debug\fubu101.dll
+C:\Users\aguilarf\Documents\Visual Studio 2010\Projects\fubu101\fubu101\obj\Debug\fubu101.pdb
+C:\Workspace\fubu101\fubu101\bin\fubu101.dll
+C:\Workspace\fubu101\fubu101\bin\fubu101.pdb
+C:\Workspace\fubu101\fubu101\bin\Bottles.dll
+C:\Workspace\fubu101\fubu101\bin\FluentValidation.dll
+C:\Workspace\fubu101\fubu101\bin\FubuCore.dll
+C:\Workspace\fubu101\fubu101\bin\FubuLocalization.dll
+C:\Workspace\fubu101\fubu101\bin\FubuMVC.Core.dll
+C:\Workspace\fubu101\fubu101\bin\FubuMVC.Spark.dll
+C:\Workspace\fubu101\fubu101\bin\FubuMVC.StructureMap.dll
+C:\Workspace\fubu101\fubu101\bin\HtmlTags.dll
+C:\Workspace\fubu101\fubu101\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Workspace\fubu101\fubu101\bin\Microsoft.Web.Infrastructure.dll
+C:\Workspace\fubu101\fubu101\bin\Simple.Data.Ado.dll
+C:\Workspace\fubu101\fubu101\bin\Simple.Data.dll
+C:\Workspace\fubu101\fubu101\bin\Simple.Data.Sqlite.dll
+C:\Workspace\fubu101\fubu101\bin\Spark.dll
+C:\Workspace\fubu101\fubu101\bin\StructureMap.dll
+C:\Workspace\fubu101\fubu101\bin\System.Data.SQLite.dll
+C:\Workspace\fubu101\fubu101\bin\System.Data.SQLite.Linq.dll
+C:\Workspace\fubu101\fubu101\bin\WebActivator.dll
+C:\Workspace\fubu101\fubu101\bin\Bottles.pdb
+C:\Workspace\fubu101\fubu101\bin\FluentValidation.pdb
+C:\Workspace\fubu101\fubu101\bin\FluentValidation.xml
+C:\Workspace\fubu101\fubu101\bin\FubuCore.pdb
+C:\Workspace\fubu101\fubu101\bin\FubuLocalization.pdb
+C:\Workspace\fubu101\fubu101\bin\FubuMVC.Core.pdb
+C:\Workspace\fubu101\fubu101\bin\FubuMVC.Spark.pdb
+C:\Workspace\fubu101\fubu101\bin\FubuMVC.StructureMap.pdb
+C:\Workspace\fubu101\fubu101\bin\HtmlTags.pdb
+C:\Workspace\fubu101\fubu101\bin\HtmlTags.xml
+C:\Workspace\fubu101\fubu101\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\Workspace\fubu101\fubu101\bin\Microsoft.Practices.ServiceLocation.xml
+C:\Workspace\fubu101\fubu101\bin\StructureMap.pdb
+C:\Workspace\fubu101\fubu101\bin\StructureMap.xml
+C:\Workspace\fubu101\fubu101\bin\de\FluentValidation.resources.dll
+C:\Workspace\fubu101\fubu101\bin\es\FluentValidation.resources.dll
+C:\Workspace\fubu101\fubu101\bin\fr\FluentValidation.resources.dll
+C:\Workspace\fubu101\fubu101\bin\it\FluentValidation.resources.dll
+C:\Workspace\fubu101\fubu101\bin\nl\FluentValidation.resources.dll
+C:\Workspace\fubu101\fubu101\bin\pl\FluentValidation.resources.dll
+C:\Workspace\fubu101\fubu101\bin\pt\FluentValidation.resources.dll
+C:\Workspace\fubu101\fubu101\bin\sv\FluentValidation.resources.dll
+C:\Workspace\fubu101\fubu101\obj\Debug\ResolveAssemblyReference.cache
+C:\Workspace\fubu101\fubu101\obj\Debug\fubu101.dll
+C:\Workspace\fubu101\fubu101\obj\Debug\fubu101.pdb

@@ -1,0 +1,196 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{42FC2AAF-19CE-4B19-80F2-C35203B89553}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>fubu101</RootNamespace>
+    <AssemblyName>fubu101</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <UseIISExpress>false</UseIISExpress>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Bottles">
+      <HintPath>..\packages\Bottles.0.9.1.179\lib\Bottles.dll</HintPath>
+    </Reference>
+    <Reference Include="FluentValidation">
+      <HintPath>..\packages\FluentValidation.3.2.0.0\lib\Net40\FluentValidation.dll</HintPath>
+    </Reference>
+    <Reference Include="FubuCore">
+      <HintPath>..\packages\FubuCore.0.9.4.109\lib\FubuCore.dll</HintPath>
+    </Reference>
+    <Reference Include="FubuLocalization">
+      <HintPath>..\packages\FubuLocalization.0.9.4.109\lib\FubuLocalization.dll</HintPath>
+    </Reference>
+    <Reference Include="FubuMVC.Core">
+      <HintPath>..\packages\FubuMVC.References.0.9.3.712\lib\net40\FubuMVC.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="FubuMVC.Spark, Version=0.9.3.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\FubuMVC.Spark.0.9.3.712\lib\net40\FubuMVC.Spark.dll</HintPath>
+    </Reference>
+    <Reference Include="FubuMVC.StructureMap">
+      <HintPath>..\packages\FubuMVC.References.0.9.3.712\lib\net40\FubuMVC.StructureMap.dll</HintPath>
+    </Reference>
+    <Reference Include="HtmlTags">
+      <HintPath>..\packages\HtmlTags.1.0.0.52\lib\4.0\HtmlTags.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="Microsoft.Practices.ServiceLocation">
+      <HintPath>..\packages\CommonServiceLocator.1.0\lib\NET35\Microsoft.Practices.ServiceLocation.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Web.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <Private>True</Private>
+      <HintPath>..\packages\FubuMVC.0.9.3.712\lib\Microsoft.Web.Infrastructure.dll</HintPath>
+    </Reference>
+    <Reference Include="Simple.Data">
+      <HintPath>..\packages\Simple.Data.Core.0.12.2.2\lib\net40\Simple.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="Simple.Data.Ado">
+      <HintPath>..\packages\Simple.Data.Ado.0.12.2.2\lib\net40\Simple.Data.Ado.dll</HintPath>
+    </Reference>
+    <Reference Include="Simple.Data.Sqlite">
+      <HintPath>..\packages\Simple.Data.Sqlite.0.12.2.3\lib\net40\Simple.Data.Sqlite.dll</HintPath>
+    </Reference>
+    <Reference Include="Spark, Version=1.6.0.0, Culture=neutral, PublicKeyToken=7f8549eed921a12c, processorArchitecture=MSIL">
+      <HintPath>..\packages\Spark.1.6\lib\NET40\Spark.dll</HintPath>
+    </Reference>
+    <Reference Include="StructureMap">
+      <HintPath>..\packages\structuremap.2.6.3\lib\StructureMap.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Data.SQLite">
+      <HintPath>..\packages\System.Data.SQLite.1.0.77.0\lib\net40\System.Data.SQLite.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Data.SQLite.Linq">
+      <HintPath>..\packages\System.Data.SQLite.1.0.77.0\lib\net40\System.Data.SQLite.Linq.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+    <Reference Include="WebActivator">
+      <HintPath>..\packages\WebActivator.1.1.0.0\lib\NETFramework40\WebActivator.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Content\Css\style.css" />
+    <Content Include="fubu-content\FubuMVC.GettingStarted.dll" />
+    <Content Include="Scripts\jquery-1.7.1-vsdoc.js" />
+    <Content Include="Scripts\jquery-1.7.1.js" />
+    <Content Include="Scripts\jquery-1.7.1.min.js" />
+    <Content Include="Shared\bindings.xml" />
+    <Content Include="sqlitebrowser\libgcc_s_dw2-1.dll" />
+    <Content Include="sqlitebrowser\mingwm10.dll" />
+    <Content Include="sqlitebrowser\Qt3Support4.dll" />
+    <Content Include="sqlitebrowser\QtCore4.dll" />
+    <Content Include="sqlitebrowser\QtGui4.dll" />
+    <Content Include="sqlitebrowser\QtNetwork4.dll" />
+    <Content Include="sqlitebrowser\QtSql4.dll" />
+    <Content Include="sqlitebrowser\QtXml4.dll" />
+    <Content Include="sqlitebrowser\SQLite Database Browser 2.0 b1.exe" />
+    <Content Include="Web.config" />
+    <Content Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+    <Content Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="App_Start\FubuMVC.cs" />
+    <Compile Include="Behaviors\ModelValidationBehavior.cs" />
+    <Compile Include="Behaviors\MovieViewModelJSONBehavior.cs" />
+    <Compile Include="Configuration\ModelValidationConfiguration.cs" />
+    <Compile Include="ConfigureFubuMVC.cs" />
+    <Compile Include="Handlers\HandlersMarker.cs" />
+    <Compile Include="Handlers\Movie\Add\AddInputModel.cs" />
+    <Compile Include="Handlers\Movie\Add\AddRequestModel.cs" />
+    <Compile Include="Handlers\Movie\Add\AddViewModel.cs" />
+    <Compile Include="Handlers\Movie\Add\GetHandler.cs" />
+    <Compile Include="Handlers\Movie\Add\PostHandler.cs" />
+    <Compile Include="Handlers\Movie\GetHandler.cs" />
+    <Compile Include="Handlers\Movie\Movie.cs" />
+    <Compile Include="Handlers\Movie\MovieRequestModel.cs" />
+    <Compile Include="Handlers\Movie\MovieViewModel.cs" />
+    <Compile Include="ModelsValidators\MovieValidator.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="fubu-content\fubumvc-diagnostics.zip" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App_Data\fubu101.db" />
+    <None Include="Handlers\Movie\Add\Add.spark">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Handlers\Movie\Movie.spark">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Shared\Application.spark" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>False</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>51146</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>
+          </IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

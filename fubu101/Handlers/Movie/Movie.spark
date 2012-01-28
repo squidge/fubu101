@@ -1,0 +1,45 @@
+﻿<viewdata model="fubu101.Handlers.Movie.MovieViewModel" />
+
+<content:main>
+
+  <script src="/Scripts/jquery-1.7.1.min.js"></script>
+  <script>
+    $(document).ready(function(){
+
+    $("#json-section").hide();
+
+    $("a.json-request").click(function(e){
+    e.preventDefault();
+
+    $.getJSON($(this).attr("href"), function(data){
+
+    $.each(data.Movies, function(i, movie){
+    $("#movies-json").append("<li>" + movie.Title + " - " + movie.Year + "</li>");
+    });
+
+    $("#json-section").show();
+
+    });
+
+    });
+    });
+  </script>
+
+  <h3>List of Movies</h3>
+
+  <ul>
+    <li each="var movie in Model.Movies">${movie.Title} - ${movie.Year}</li>
+  </ul>
+
+  <div id="json-section">
+    <p>my movies in json format</p>
+    <ul id="movies-json" />
+  </div>
+
+  <p>
+    <a class="json-request" href="${this.Urls.UrlFor(new fubu101.Handlers.Movie.MovieRequestModel())}">Get Movies in JSON format</a>
+  </p>
+
+  <a href="${this.Urls.UrlFor(new fubu101.Handlers.Movie.Add.AddRequestModel())}">add movie</a>
+
+</content:main>

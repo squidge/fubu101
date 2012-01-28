@@ -1,0 +1,50 @@
+﻿body
+{
+    width: 750px;
+}
+
+.header
+{
+    border-bottom: 1px solid;
+    font-family: verdana;
+    font-size: 12px;
+    margin-bottom: 2em;
+}
+
+.content
+{
+    text-align: left;
+    width: 700px;
+    margin: 0 auto;
+}
+
+.footer
+{
+    border-top: 1px solid;
+    margin-top: 2em;
+}
+
+label
+{
+    width: 4em;
+    float: left;
+    text-align: right;
+    margin-right: 0.5em;
+    display: block;
+}
+
+input
+{
+    color: #781351;
+    background: #fee3ad;
+    border: 1px solid #781351;
+}
+
+button
+{
+    width: 70px;
+    color: #000;
+    background: #ffa20f;
+    border: 2px outset #d7b9c9;
+    margin-left: 5.5em;
+}

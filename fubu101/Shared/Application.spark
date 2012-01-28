@@ -1,0 +1,24 @@
+﻿﻿<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+	<meta name="description" content="VAN de FubuMVC" />
+	<link rel="stylesheet" type="text/css" href="/content/css/style.css" media="screen" />
+    <title>FubuMVC en ALT.NET Hispano</title>
+</head>
+<body>
+	
+	<div class="header">
+		<h1>Best Fubu Movies</h1>
+	</div>
+
+	<div class="content">
+		<use content="main" />
+	</div>
+	
+	<div class="footer">
+		<small>FubuMVC en ALT.NET Hispano</small>
+	</div>
+
+</body>
+</html>
